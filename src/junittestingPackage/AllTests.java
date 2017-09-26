@@ -8,4 +8,5 @@ import org.junit.runners.Suite.SuiteClasses;
 @SuiteClasses({ testAddnumbers.class, testAddStrings.class })
 public class AllTests {
 
+	
 }

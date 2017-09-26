@@ -8,4 +8,5 @@ public class junitFunction {
 		return s1+s2;
 	}
       
+	
 }

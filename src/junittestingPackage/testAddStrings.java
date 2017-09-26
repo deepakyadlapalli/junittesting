@@ -6,6 +6,7 @@ import org.junit.Test;
 
 public class testAddStrings {
 
+	
 	@Test
 	public void test() {
 		junitFunction junitstring = new junitFunction();
